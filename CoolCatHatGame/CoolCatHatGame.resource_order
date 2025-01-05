@@ -16,5 +16,10 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Object1","order":2,"path":"objects/Object1/Object1.yy",},
+    {"name":"Wall1","order":4,"path":"objects/Wall1/Wall1.yy",},
+    {"name":"PlayerPlaceHolder","order":1,"path":"sprites/PlayerPlaceHolder/PlayerPlaceHolder.yy",},
+    {"name":"Sprite3","order":3,"path":"sprites/Sprite3/Sprite3.yy",},
+  ],
 }
